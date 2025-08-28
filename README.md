@@ -1,4 +1,3 @@
-# furmunity
 <!DOCTYPE html>
 <html lang="ko">
 <head>
